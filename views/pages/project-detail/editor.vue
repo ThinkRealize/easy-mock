@@ -120,8 +120,8 @@ export default {
           this.codeEditor.setValue(this.temp.mode)
         } else {
           this.temp.url = ''
-          this.temp.mode = '{"data": {}}, "ret": {"code": "200","msg": ""}'
-          this.temp.method = 'get'
+          this.temp.mode = '{"data": {}, "ret": {"code": "200","msg": ""}}'
+          this.temp.method = 'post'
           this.temp.description = ''
           this.codeEditor.setValue(this.temp.mode)
         }
