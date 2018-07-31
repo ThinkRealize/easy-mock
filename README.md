@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Thanks to Souche Inc. which provides the server to hold an online service. </b>
+  <b>Thanks to Souche Inc. which provides the server to hold an online service.</b>
   <br><br>
   <a href="http://www.souche.com" target="_blank">
     <img alt="Souche Inc." src="http://img.souche.com/f2e/08aa2b695f6298302f767b2439db4537.png" width="200">
